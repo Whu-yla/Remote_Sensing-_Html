@@ -12,4 +12,6 @@ Next,upload all the files in the project to the server,under the wepapps folder 
 Finally,start your tomcat
 
 It works on http://120.79.180.108:8080/Remote_Sensing_Version2/index.html
+
+
 --------@Hugo---------
